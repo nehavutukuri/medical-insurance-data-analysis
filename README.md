@@ -48,27 +48,27 @@ The dataset contains information about medical insurance customers, including:
 
 ### Age vs. Insurance Charges
 
-<img src="visualizations/age_vs_charges.png" width="500">
+<img src="age_vs_charges.png" width="500">
 
 
 ### Insurance Charges by Region
 
-<img src="visualizations/region_charges.png" width="500">
+<img src="region_charges.png" width="500">
 
 
 ### BMI vs. Insurance Charges
 
-<img src="visualizations/bmi_vs_charges.png" width="500">
+<img src="bmi_vs_charges.png" width="500">
 
 
 ### Smokers vs. Non-Smokers
 
-<img src="visualizations/smoker_vs_nonsmoker.png" width="500">
+<img src="smoker_vs_nonsmoker.png" width="500">
 
 
 ### Insurance Charges by Number of Children
 
-<img src="visualizations/charges_by_children.png" width="500">
+<img src="charges_by_children.png" width="500">
 
 
 ## Skills Demonstrated
