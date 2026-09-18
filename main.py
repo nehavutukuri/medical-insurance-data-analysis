@@ -535,7 +535,6 @@ insurance charges. The other factors I analyzed, including
 BMI, region, sex, and number of children, showed smaller differences 
 in average insurance charges.
 
-
 Overall, this project helped me strengthen my ability to work with
 real-world data, use Python to answer questions, and communicate
 findings through data visualizations.
