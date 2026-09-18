@@ -56,9 +56,9 @@ The dataset contains information about medical insurance customers, including:
 <img src="region_charges.png" width="500">
 
 
-### BMI vs. Insurance Charges
+### Insurance Charges by BMI
 
-<img src="bmi_vs_charges.png" width="500">
+<img src="charges_by_bmi.png" width="500">
 
 
 ### Smokers vs. Non-Smokers
